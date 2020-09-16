@@ -1,1 +1,3 @@
-# psychedelicsocietyofwinnipeg.github.io
+beachbuswinnipeg.github.io
+
+permalink: /index.html
