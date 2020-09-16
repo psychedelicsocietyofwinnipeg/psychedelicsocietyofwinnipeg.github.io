@@ -1,0 +1,21 @@
+.landinglayout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.landingnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navitem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    font-size: x-large;
+}
+.navitem a {
+    text-decoration: none;
+}
