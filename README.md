@@ -1,3 +1,3 @@
-beachbuswinnipeg.github.io
+psychedelicsocietyofwinnipeg.github.io
 
 permalink: /index.html
